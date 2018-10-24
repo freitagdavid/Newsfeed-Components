@@ -31,7 +31,7 @@ x Run `less-watch-compiler less css index.less` from the top level of the Newsfe
 
 ### Part 3: Add Articles
 
--   Now that we have our components built, add a few articles of your own to the HTML. Notice how our JavaScript code automatically selects the new articles and adds the styling and functionality we just built to them. This is the power of components. Write the code once and add as many components as you want all while maintaining the functionality we built!
+\- Now that we have our components built, add a few articles of your own to the HTML. Notice how our JavaScript code automatically selects the new articles and adds the styling and functionality we just built to them. This is the power of components. Write the code once and add as many components as you want all while maintaining the functionality we built!
 
 ### Stretch Goals:
 
